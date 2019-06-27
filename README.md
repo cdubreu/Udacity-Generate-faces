@@ -1,2 +1,3 @@
-# Udacity-Generate-faces
-Udacity project for deep learning nanodegree : Generate faces using GAN
+# Face Generation Project
+
+This project uses generative adversarial networks to generate new images of faces.
